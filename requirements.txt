@@ -58,7 +58,6 @@ MarkupSafe==3.0.2
 marshmallow==3.26.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
--e git+https://github.com/gopaldewoolkar/Medical_Chatbot.git@60f9a20c36b9a585ffe4ed97a7a519f3b2b3b20e#egg=medical_Chatbot
 mpmath==1.3.0
 multidict==6.6.4
 mypy_extensions==1.1.0
@@ -131,3 +130,4 @@ Werkzeug==3.1.3
 wrapt==1.17.3
 yarl==1.20.1
 zstandard==0.25.0
+e- .
